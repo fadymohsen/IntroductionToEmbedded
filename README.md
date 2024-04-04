@@ -1,3 +1,5 @@
+# FIRST: ISA
+
 **Imagine a Contract Between Software and Hardware:**
 
 - ISA acts as a contract or common language between the software (programs) you run and the hardware (processor) that executes them. It defines the set of instructions the processor understands and how it should carry them out.
